@@ -1,0 +1,36 @@
+PHILOFLIX — ATUALIZAÇÃO DE 25/10/2026
+
+COMO ATUALIZAR
+1. Substitua os três arquivos index.html, script.js e style.css na RAIZ do mesmo repositório GitHub do PhiloFlix.
+2. Mantenha os outros arquivos existentes (manifest.webmanifest, ícones, scripts PWA, posteres de filmes etc.).
+3. Salve/commit as alterações e atualize a página no navegador (Ctrl+Shift+R, caso o navegador ainda exiba a versão anterior).
+
+NOVO PADRÃO DAS 30 CAPAS (.jpg, letras MAIÚSCULAS; todos na raiz):
+Conteúdo:  C01.jpg, C02.jpg, C03.jpg, C04.jpg, C05.jpg, C06.jpg
+Fórum:     F01.jpg, F02.jpg, F03.jpg, F04.jpg, F05.jpg, F06.jpg
+Vídeos:    V01.jpg, V02.jpg, V03.jpg, V04.jpg, V05.jpg, V06.jpg
+Atividades:A01.jpg, A02.jpg, A03.jpg, A04.jpg, A05.jpg, A06.jpg
+Saiba+:    S01.jpg, S02.jpg, S03.jpg, S04.jpg, S05.jpg, S06.jpg
+
+ORDEM DAS CATEGORIAS:
+01 — Mito e Filosofia
+02 — Teoria do Conhecimento
+03 — Ética
+04 — Filosofia Política
+05 — Filosofia da Ciência
+06 — Estética
+
+ALTERAÇÕES REALIZADAS:
+- 30 capas do roteiro: remoção da aba inferior com "CONTEÚDO", "FÓRUM", "VÍDEOS", "ATIVIDADES" e "SAIBA +". Imagens exibidas no próprio formato 16:9.
+- Cinco cartões de apresentação "O que você encontrará": descrições mantidas e ampliadas; título redundante removido. Decoração que sobrepunha a arte também removida.
+- Texto do menu superior levemente maior.
+- Subtítulos dos seis conteúdos estruturantes maiores.
+- Títulos, códigos e descrições dos filmes maiores.
+- Acesso por um clique nas capas e nos cartões dos filmes verificado; toque único em dispositivos móveis facilitado.
+- Os cinco cartões "O que você encontrará" levam diretamente à lista de seis conteúdos para seleção, dispensando clique adicional em "EXPLORAR".
+- Referências de script e estilo com identificador de versão para ajudar a evitar o cache da versão anterior.
+
+NOTAS
+As cinco imagens de apresentação dos ambientes continuam com os nomes originais: conteudos.jpg, forum.jpg, videos.jpg, atividades.jpg, saibamais.jpg.
+Os pôsteres individuais de filmes (vmf01.jpg, vtc01.jpg etc.) também mantêm seus nomes antigos. Os nomes V01.jpg a V06.jpg são somente para as seis capas de ambiente de Vídeos no roteiro.
+Os arquivos JPG das capas não estão incluídos neste pacote e devem existir no seu repositório para aparecerem no site.
